@@ -1,6 +1,6 @@
 # 👋 Hello, I'm a Senior Quality Engineering Leader
 
-### 🚀 Quality Engineering | Test Automation | Data Quality | AI-Driven Testing
+### 🚀 Quality Engineering | Test Automation | Enterprise Data Products | Business Analytics & Insights |AI-Driven Testing
 
 **18+ Years of Experience | QE Strategy | Enterprise Quality Transformation | Engineering Excellence**
 
