@@ -1,6 +1,6 @@
 # 👋 Hello, I'm a Senior Quality Engineering Leader
 
-### 🚀 Quality Engineering | Test Automation | Enterprise Data Products ,Business Analytics & Insights |AI-Driven Testing
+### 🚀 Quality Engineering | Test Automation | Enterprise Data Products,Business Intelligence & Data Insights |AI-Driven Testing
 
 **18+ Years of Experience | QE Strategy | Enterprise Quality Transformation | Engineering Excellence**
 
@@ -118,9 +118,9 @@ I use this space to share practical implementations, learning experiments, testi
 
 I am always interested in connecting with Quality Engineering leaders, software testing professionals, AI enthusiasts and engineering communities.
 
-- 💼 LinkedIn: [Add your LinkedIn URL](https://www.linkedin.com/)
-- 🐙 GitHub: [My GitHub Profile](https://github.com/)
-- 📧 Email: Add your professional email
+- 💼 LinkedIn: https://www.linkedin.com/in/venkatesan-lakshmanan-43136215/
+- 🐙 GitHub: https://github.com/venkatesanl12
+- 📧 Email: venkat.dwqa@gmail.com
 
 **"Quality is not just about finding defects. It is about building engineering systems that prevent defects and deliver customer confidence."**
 
