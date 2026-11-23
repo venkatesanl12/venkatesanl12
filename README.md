@@ -1,4 +1,4 @@
-# 👋 Hello, I'm a Senior Quality Engineering Leader
+# 👋 Hello, I'm(Venkatesan Lakshmanan) a Senior Quality Engineering Leader
 
 ### 🚀 Quality Engineering | Test Automation | Enterprise Data Products,Business Intelligence & Data Insights |AI-Driven Testing
 
