@@ -1,127 +1,186 @@
-# 👋 Hello, I'm(Venkatesan Lakshmanan) a Senior Quality Engineering Leader
+::: {align="center"}
+# Venkatesan Lakshmanan
 
-### 🚀 Quality Engineering | Test Automation | Enterprise Data Products,Business Intelligence & Data Insights |AI-Driven Testing
+### Senior Quality Engineering Manager
 
-**18+ Years of Experience | QE Strategy | Enterprise Quality Transformation | Engineering Excellence**
+`<a href="https://readme-typing-svg.demolab.com">`{=html}
+`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=760&lines=Quality+Engineering+Leadership;Enterprise+Quality+Transformation;ETL+%7C+Big+Data+%7C+Data+Quality;Test+Automation+%7C+Playwright+%7C+Selenium;Exploring+AI+Agents+for+Software+Testing" alt="Animated introduction" />`{=html}
+`</a>`{=html}
 
-I am a Senior Quality Engineering professional passionate about building high-performing QE organizations, engineering quality into software delivery, and leveraging automation and AI to transform the way organizations test software.
+**QE Strategy • Data Quality • Test Automation • AI-Augmented Testing**
 
-My experience spans enterprise-scale data platforms, Big Data, ETL/ELT pipelines, application testing, automation frameworks, and AI/ML-integrated solutions.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkatesan-lakshmanan-43136215/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/venkatesanl12)
+:::
 
----
+------------------------------------------------------------------------
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-- 💼 18+ years of experience in Quality Engineering and Software Testing.
-- 🏢 Experience working with Walmart Global Tech.
-- 👥 Established and led a 25-member Quality Engineering team.
-- 🎯 Experienced in building Testing Centres of Excellence (TCoE).
-- 🏗️ Designed enterprise-wide QE strategies and quality transformation roadmaps.
-- 📊 Strong background in ETL, Data Warehousing, Big Data and Data Engineering.
-- 🤖 Exploring AI Agents, LLMs and AI-powered test automation.
-- 🔬 Passionate about shift-left testing, continuous quality and engineering excellence.
-- 🤝 Experienced in working with Product, Architecture, Engineering and Operations teams.
+I am a **Senior Quality Engineering Manager** with experience in
+enterprise software quality, data platforms, test automation, and
+quality transformation.
 
----
+My work spans the complete quality engineering lifecycle --- from
+defining test strategy and strengthening quality practices to guiding
+teams, improving test coverage, and partnering with Product,
+Architecture, Development, and Operations.
 
-## 🧠 Core Competencies
+I have worked with large-scale data products and solutions involving
+**Big Data technologies, ETL tools, BI reporting, AI/ML integration, and
+frontend/backend/data-science integration**. I am particularly
+interested in building practical, scalable quality engineering
+approaches that improve confidence in complex software and data-driven
+systems.
 
-| Area | Expertise |
-|---|---|
-| Quality Engineering | QE Strategy, Test Governance, Quality Transformation |
-| Leadership | Team Building, Mentoring, TCoE, Stakeholder Management |
-| Data Testing | ETL/ELT, Data Warehousing, Big Data, Data Validation |
-| Automation | Playwright, Selenium, API Automation |
-| API Testing | REST API, REST Assured |
-| Database | SQL, Relational Databases |
-| AI in Testing | GitHub Copilot, AI Agents, Playwright MCP Agents |
-| Delivery | Agile, Shift-Left Testing, CI/CD, Release Governance |
+I am also actively exploring how **Generative AI, AI agents, and modern
+automation tools** can support the next evolution of Quality
+Engineering.
 
----
+## 🎯 Leadership & Quality Engineering
 
-## 🏆 Professional Experience & Leadership
+-   **QE Strategy:** Define test approaches across functional,
+    regression, system, integration, and end-to-end testing.
+-   **Quality Transformation:** Establish quality processes, identify
+    engineering gaps, and create improvement roadmaps.
+-   **Team Enablement:** Coach engineering teams to adopt a
+    quality-first and shift-left mindset.
+-   **Stakeholder Partnership:** Collaborate with Product, Architecture,
+    Development, Data Science, and Operations.
+-   **Data Platform Quality:** Drive validation across data pipelines,
+    ETL processes, BI solutions, and integrated data products.
+-   **Modernization & Migration:** Support quality planning for
+    database, ETL, and application migrations from legacy to modern
+    platforms.
+-   **QE Consulting:** Help teams identify quality risks, select
+    suitable tools, and plan adoption of improved practices.
 
-### Quality Engineering Leadership
+## 🧰 Core Skills & Technology Badges
 
-- Built and led a 25-member Quality Engineering organization.
-- Established enterprise Quality Engineering processes and governance models.
-- Defined QE vision, strategy, operating models and transformation roadmaps.
-- Established quality metrics, release readiness and Go/No-Go practices.
-- Drove engineering teams towards a quality-first and shift-left mindset.
+### Quality Engineering & Testing
 
-### Data Engineering & Quality Assurance
+```{=html}
+<p>
+```
+`<img src="https://img.shields.io/badge/Quality_Engineering-Strategy%20%26%20Governance-1f6feb?style=flat-square" alt="Quality Engineering" />`{=html}
+`<img src="https://img.shields.io/badge/Functional_Testing-QA-0A7B83?style=flat-square" alt="Functional Testing" />`{=html}
+`<img src="https://img.shields.io/badge/Regression_Testing-QA-0A7B83?style=flat-square" alt="Regression Testing" />`{=html}
+`<img src="https://img.shields.io/badge/Integration_Testing-QA-0A7B83?style=flat-square" alt="Integration Testing" />`{=html}
+`<img src="https://img.shields.io/badge/Test_Automation-Engineering-6f42c1?style=flat-square" alt="Test Automation" />`{=html}
+```{=html}
+</p>
+```
+### Automation & Engineering Tools
 
-- Led end-to-end testing for enterprise data platforms.
-- Designed test strategies for ETL pipelines and data warehouse solutions.
-- Worked on Big Data technologies, ETL tools, BI reporting and data integration.
-- Validated complex data transformations and application migrations.
-- Integrated testing across frontend, backend, data engineering and AI/ML components.
+```{=html}
+<p>
+```
+`<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />`{=html}
+`<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" />`{=html}
+`<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />`{=html}
+`<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />`{=html}
+`<img src="https://img.shields.io/badge/Agile-Methodology-167D9A?style=flat-square" alt="Agile" />`{=html}
+```{=html}
+</p>
+```
+### Data Engineering & Quality
 
-### AI-Driven Quality Engineering
+```{=html}
+<p>
+```
+`<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />`{=html}
+`<img src="https://img.shields.io/badge/ETL%2FELT-Data_Pipelines-4051B5?style=flat-square" alt="ETL and ELT" />`{=html}
+`<img src="https://img.shields.io/badge/Big_Data-Data_Platforms-5B6ABF?style=flat-square" alt="Big Data" />`{=html}
+`<img src="https://img.shields.io/badge/Data_Warehousing-Validation-6B7280?style=flat-square" alt="Data Warehousing" />`{=html}
+`<img src="https://img.shields.io/badge/BI-Reporting-8A5CF6?style=flat-square" alt="Business Intelligence" />`{=html}
+```{=html}
+</p>
+```
+### AI & Emerging Practices
 
-- Exploring AI Agents and LLM-based testing solutions.
-- Leveraging GitHub Copilot for engineering productivity.
-- Exploring Playwright MCP Agents for intelligent test automation.
-- Interested in autonomous testing, AI-assisted test generation and intelligent defect analysis.
+```{=html}
+<p>
+```
+`<img src="https://img.shields.io/badge/Generative_AI-Exploring-8A2BE2?style=flat-square" alt="Generative AI" />`{=html}
+`<img src="https://img.shields.io/badge/AI_Agents-Exploring-8A2BE2?style=flat-square" alt="AI Agents" />`{=html}
+`<img src="https://img.shields.io/badge/GitHub_Copilot-AI_Assisted-000000?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />`{=html}
+`<img src="https://img.shields.io/badge/Playwright_MCP-Exploring-2EAD33?style=flat-square" alt="Playwright MCP" />`{=html}
+```{=html}
+</p>
+```
+## 🤖 Current Learning & Exploration
 
----
+-   Applying AI agents to software testing workflows.
+-   Exploring Playwright MCP and agent-assisted browser automation.
+-   Using AI to support test analysis, test design, and test data
+    preparation.
+-   Improving UI and API automation practices.
+-   Strengthening data quality validation for ETL and modern data
+    platforms.
+-   Exploring practical ways to embed quality earlier in the development
+    lifecycle.
 
-## 🛠️ Technology Stack
+## 📌 Portfolio & Featured Work
 
-### Testing & Automation
-`Playwright` `Selenium` `REST Assured` `API Testing` `Functional Testing` `Regression Testing`
+I am building this GitHub space to share practical Quality Engineering
+assets, examples, and learning projects.
 
-### Data Engineering & Testing
-`SQL` `ETL` `ELT` `Data Warehousing` `Big Data` `Data Pipelines` `Data Validation`
+  -----------------------------------------------------------------------
+  Area                                Planned content
+  ----------------------------------- -----------------------------------
+  QE Strategy & Governance            Test strategy templates, quality
+                                      checklists, and governance
+                                      references
 
-### AI & Emerging Technologies
-`Generative AI` `LLMs` `AI Agents` `GitHub Copilot` `MCP` `AI-assisted Testing`
+  Playwright Automation               UI and API automation examples
 
-### Engineering & Collaboration
-`GitHub` `JIRA` `Agile` `CI/CD` `Test Strategy` `Quality Governance`
+  ETL & Data Testing                  SQL validation examples and data
+                                      testing approaches
 
----
+  AI-Augmented Testing                Experiments with AI-assisted
+                                      testing and agent workflows
 
-## 📚 Knowledge Sharing & Learning
+  QE Knowledge Base                   Practical guides, reusable
+                                      templates, and lessons learned
+  -----------------------------------------------------------------------
 
-I believe in continuous learning and sharing knowledge with the Quality Engineering community.
+> I will add direct links here as the corresponding repositories and
+> examples are published. This avoids pointing visitors to projects that
+> are not yet available.
 
-Areas I am actively exploring:
+## 📊 GitHub Analytics
 
-- AI Agents for Software Testing
-- Agentic AI in Quality Engineering
-- Playwright Automation Frameworks
-- AI-driven Test Case Generation
-- Intelligent API Testing
-- Data Quality Engineering
-- Modern QE Operating Models
+::: {align="center"}
+`<a href="https://github.com/venkatesanl12">`{=html}
+`<img height="165" src="https://github-readme-stats.vercel.app/api?username=venkatesanl12&show_icons=true&hide_border=true&rank_icon=github" alt="Venkatesan's GitHub statistics" />`{=html}
+`</a>`{=html} `<a href="https://github.com/venkatesanl12">`{=html}
+`<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatesanl12&layout=compact&hide_border=true" alt="Most used languages" />`{=html}
+`</a>`{=html}
 
----
+`<a href="https://github.com/venkatesanl12">`{=html}
+`<img src="https://github-readme-streak-stats.herokuapp.com/?user=venkatesanl12&hide_border=true" alt="GitHub contribution streak" />`{=html}
+`</a>`{=html}
+:::
 
-## 🚀 My GitHub Projects
+`<sub>`{=html}Analytics cards are provided by third-party services and
+may occasionally be unavailable or delayed. Language statistics reflect
+public repository code and are not a measure of overall engineering
+proficiency.`</sub>`{=html}
 
-I use this space to share practical implementations, learning experiments, testing frameworks and reusable Quality Engineering assets.
+## 🤝 Connect With Me
 
-| Project | Description |
-|---|---|
-| AI Testing Agents | Experiments with AI-powered testing |
-| Playwright Framework | UI and API automation examples |
-| ETL Testing Framework | Data validation and ETL testing utilities |
-| SQL Testing | SQL queries and data validation examples |
-| QE Resources | Quality Engineering practices and templates |
+I welcome conversations with Quality Engineering leaders, testing
+professionals, data engineering teams, and practitioners exploring
+AI-enabled software quality.
 
-*Project links will be added as these repositories are published.*
+-   **LinkedIn:**
+    [venkatesan-lakshmanan](https://www.linkedin.com/in/venkatesan-lakshmanan-43136215/)
+-   **GitHub:** [@venkatesanl12](https://github.com/venkatesanl12)
 
----
+------------------------------------------------------------------------
 
-## 🤝 Let's Connect
-
-I am always interested in connecting with Quality Engineering leaders, software testing professionals, AI enthusiasts and engineering communities.
-
-- 💼 LinkedIn: https://www.linkedin.com/in/venkatesan-lakshmanan-43136215/
-- 🐙 GitHub: https://github.com/venkatesanl12
-- 📧 Email: venkat.dwqa@gmail.com
-
-**"Quality is not just about finding defects. It is about building engineering systems that prevent defects and deliver customer confidence."**
+::: {align="center"}
+### Quality is not just about finding defects --- it is about building engineering practices that prevent them.
 
 ⭐ Thanks for visiting my profile!
+:::
